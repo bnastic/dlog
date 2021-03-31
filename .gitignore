@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.make-prerequisites
 
 # Object files
 *.o
